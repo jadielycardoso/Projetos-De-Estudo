@@ -1,6 +1,6 @@
-#Projeto de Estudo - Intensivo Java Spring
+## Projeto Intensivo Java Spring
 
-#Sobre o Projeto
+- Sobre o Projeto
 
 O projeto proposto é uma aplicação back end construída durante o **Intensivo Java Srping**, 
 evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
