@@ -36,3 +36,8 @@ A aplicação consiste em uma pesquisa de preferência de Games.
 - Banco de dados H2
 
 ## Execução do Projeto no Postman
+
+<div align="center">
+<img src="https://github.com/jadielycardoso/Projetos-De-Estudo/assets/128059800/cc81bb13-5b3b-43d8-afa8-07991ebde9e0)" width="700px" />
+</div>
+
